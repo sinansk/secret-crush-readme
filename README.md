@@ -4,7 +4,7 @@ Secret Crush is a fun and intimate social platform where people can secretly sha
 
 ## 📸 Screenshots
 
-### Register Page
+### Landing Page
 ![Landing Page](https://raw.githubusercontent.com/sinansk/secret-crush-readme/refs/heads/main/secret-crush-landing.png)
 
 ### Register Page
